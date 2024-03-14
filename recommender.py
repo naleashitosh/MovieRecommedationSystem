@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import requests
 
-ich_bin_ashutosh = 'https://github.com/ashitoshn3598'
+ich_bin_ashutosh = 'https://github.com/naleashitosh'
 
 st.markdown(ich_bin_ashutosh, unsafe_allow_html=True)
 
